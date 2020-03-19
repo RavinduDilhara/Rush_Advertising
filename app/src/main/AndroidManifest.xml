@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Banner"></activity>
+        <activity android:name=".Admin_Choose"></activity>
+        <activity android:name=".Banner" />
         <activity android:name=".Customer_Choose" />
         <activity android:name=".Customer_Profile" />
         <activity android:name=".Register" />
